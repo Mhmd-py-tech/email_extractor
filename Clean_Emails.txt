@@ -1,0 +1,3 @@
+john.doe@gmail.com
+sarah@business.com
+mike.smith@company.co.ukjohn.doe@gmail.comsarah@business.commike.smith@company.co.uk

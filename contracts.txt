@@ -1,0 +1,4 @@
+Hey reach out to john.doe@gmail.com or call 555-1234
+Contact sarah@business.com for more info
+Invalid email: notanemail
+Another contact: mike.smith@company.co.ukjohn.doe@gmail.comsarah@business.commike.smith@company.co.uk
